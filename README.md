@@ -1,9 +1,9 @@
 BIGER / TIGER
 
-Proof of concept that Bigonal mecanical magnetic rotor with attached passive PT diode against Lenz forces with proper coil inside a proper maglev ring will need injectors
-to keep consistent RPM although it's not perptual module that run against energy conservation laws it's ipso factually almost the same thing.
+Proof of concept that Bigonal mecanical magnetic rotor with attached passive PT diode against Lenz forces with proper coil inside a passive maglev bearring with mounted injector system to keep consistent RPM although it's not perptual module that run against energy conservation laws it's ipso factually almost the same thing, as once the initialization of the spin happens it's self sustaining system.
 
-30cm Feroomagnetic Bigonal Disk element is able at 3000rpm to produce 0.46W of power per side outperforming against injected energy to keep rotation at stable RPM
+30cm Feromagnetic Bigonal Disk element is able at 3000rpm to produce 0.46W of power per side outperforming against injected energy to keep rotation at stable speeds producing
+more than it need to run.
 
 If we juice the concept to the mechanical limmits of materials considered and use N-gonal form factor for the passive rotor then examplary we can have:
 
